@@ -15,13 +15,16 @@ This repository contains a frontend project developed using the Reactjs  that fe
 ```bash
   git clone https://github.com/pankajsaini2562/revoltronAssignment.git
 ```
-```bash
-  npm install
-```
+
 
 ```bash
  cd frontend
 ```
+
+```bash
+  npm install
+```
+
 ```bash
   npm run dev
 ```
